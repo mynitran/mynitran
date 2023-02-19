@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is My Ni :smile:, and I am currently using GitHub to work on the courses *Data Preparation & Workflow Management* and *Online Data Collection & Management* as part of the **Msc Marketing Analytics** at Tilburg University, the Netherlands. 
+
+How to reach me: :email: m.n.tran@tilburguniversity.edu
+
+
+
+
+
+
 <!--
 **mynitran/mynitran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
